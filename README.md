@@ -14,3 +14,9 @@ Whitespaces and indentation are significant in Haskell. Stick to the following [
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Intermediate Haskell](https://intermediatehaskell.com/) (WIP)
 * [The Joy of Haskell](https://joyofhaskell.com/) (WIP)
+
+## Courses
+
+* [Yorgey's cis194](http://www.seas.upenn.edu/~cis194/fall16/)
+
+## Blogs
